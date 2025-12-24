@@ -3,7 +3,7 @@
 ### 📌 Project Overview
 **"Does being top of the league at Christmas guarantee the title?"**
 
-This project analyzes 30 years of English Premier League data (1993–2024) to test the "Christmas Number One" myth. Beyond simple win rates, I developed a behavioral profile for major teams to identify which clubs crumble under pressure ("Bottlers") and which thrive on the chase ("Hunters").
+This project analyzes 30 years of English Premier League data (1993–2022) to test the "Christmas Number One" myth. Beyond simple win rates, I developed a behavioral profile for major teams to identify which clubs crumble under pressure ("Bottlers") and which thrive on the chase ("Hunters").
 
 ### ❓ The Business Questions
 1.  **The Myth:** What is the statistical probability of winning the league if you are 1st on Dec 25th?
